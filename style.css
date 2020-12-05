@@ -1,0 +1,27 @@
+.heading{
+    font-size:16;
+    box-shadow: 5px 5px 5px lightskyblue;
+    box-shadow: 10px 10px 10px steelblue;
+    margin: 0;
+}
+
+
+#divie{
+    bottom:0px;
+    position:fixed;
+    color:white;
+    background:gray;
+    text-align:center;
+    width:100%;
+}
+
+canvas{
+    margin-right:50px;
+    left:0;
+    width:500px;
+    height:500px;
+    border-radius:70px;
+    border-style:dotted;
+    border-color:silver;
+    background-color:#00ff8c ;
+}
