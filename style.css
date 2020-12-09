@@ -1,7 +1,7 @@
 .heading{
     font-size:16;
     box-shadow: 5px 5px 5px lightskyblue;
-    box-shadow: 10px 10px 10px steelblue;
+    box-shadow: 100px 100px 100px steelblue;
     margin: 0;
 }
 
@@ -24,4 +24,8 @@ canvas{
     border-style:dotted;
     border-color:silver;
     background-color:#00ff8c ;
+}
+
+body{
+    background-image:url("download.jpg")
 }

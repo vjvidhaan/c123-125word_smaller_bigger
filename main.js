@@ -19,7 +19,9 @@ function draw(){
     background('#423d3d');
     fill("#3a91bd");
     stroke("#45bd3c");
-   rect(noseX,noseY,difference,difference);
+text("Vidhaan", 100, 100);
+textSize(difference);
+
    
 }
 
@@ -49,3 +51,4 @@ difference = left_wristX - right_wristX;
 
 
 
+250
